@@ -60,7 +60,6 @@
      <Compile Include="Assets\RayShooter.cs" />
      <Compile Include="Assets\ReactiveTarget.cs" />
      <Compile Include="Assets\SceneController.cs" />
-     <Compile Include="Assets\Spin.cs" />
      <Compile Include="Assets\WanderingAI.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/Soft/Unity/3DProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
